@@ -1,8 +1,9 @@
-background: "#120f0d"
-accent: "#eddedb"
+---
+background: "#31342e"
+accent: "#8cd6ec"
 foreground: "#ffffff"
 background_image:
-  path: ~/.warp/themes/gargantua-black-hole.jpeg
+  path: /Users/rafael/.warp/themes/monkey-d-luffy-one-piece.jpeg
   opacity: 30
 details: darker
 terminal_colors:
@@ -24,3 +25,4 @@ terminal_colors:
     magenta: "#ffb1fe"
     cyan: "#e5e6fe"
     white: "#feffff"
+name: monkey-d-luffy-one-piece
