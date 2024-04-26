@@ -3,7 +3,7 @@ background: "#31342e"
 accent: "#8cd6ec"
 foreground: "#ffffff"
 background_image:
-  path: /Users/rafael/.warp/themes/monkey-d-luffy-one-piece.jpeg
+  path: ~/.warp/themes/monkey-d-luffy-one-piece.jpeg
   opacity: 30
 details: darker
 terminal_colors:
